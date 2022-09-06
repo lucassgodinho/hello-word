@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Este e meu primeiro repositorio no github
 
 # Minha primeira frase
